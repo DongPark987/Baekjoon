@@ -1,5 +1,3 @@
-/*
-
 //#include <stdio.h>
 //#include <stack>
 #include <string.h>
@@ -42,4 +40,3 @@ int main() {
 	cout << rec(0, N - 1, 1);
 }
 
-*/

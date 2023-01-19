@@ -1,5 +1,3 @@
-
-/*
 //#include <stdio.h>
 #include <stack>
 //#include <string.h>
@@ -44,4 +42,3 @@ int main(int argc, char** argv) {
 	}
 	cout << ans;
 }
-*/

@@ -1,4 +1,3 @@
-/*
 //#include <stdio.h>
 //#include <string.h>
 //#include <queue>
@@ -54,4 +53,3 @@ int main() {
 
 	printPreOrder(0, n - 1, 0, n - 1);
 }
-*/

@@ -9,7 +9,7 @@
 #include <algorithm>
 
 
-/*
+
 using namespace std;
 #pragma warning(disable : 4996)
 
@@ -60,4 +60,3 @@ int main() {
 	for (int i = 0; i < N; i++)
 		cout << ms[i].time + ms[i].pre_time << "\n";
 }
-*/
