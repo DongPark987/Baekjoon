@@ -1,5 +1,3 @@
-
-/*
 //#include <stdio.h>
 #include <iostream>
 //#include <stack>
@@ -67,4 +65,3 @@ int main() {
 	}
 	cout << -1;
 }
-*/
